@@ -1,5 +1,7 @@
 # Home
 
+## [CurseForge (not open yet)](https://www.curseforge.com/minecraft/mc-mods/bluecheese-mod/files) [Planet Minecraft](https://www.planetminecraft.com/mod/cheese-mod-a-fan-mod-for-bluecheese/)
+
 #### Downloads:
 ##### As they go down, they get more and more cursed
 
