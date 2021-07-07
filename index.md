@@ -20,4 +20,6 @@
 ###### v2: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev2.jar?raw=true)
 ###### v1: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev1.jar?raw=true)
 
+#### Credit: [Uniimations](https://youtube.com/uniimations) for that fricking amazing music, featured on the Music Discs
+
 
