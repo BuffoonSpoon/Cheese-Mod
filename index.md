@@ -1,5 +1,11 @@
 # Home
+---
+output: html_document
+---
 
+# Heading {.tabset .tabset-dropdown}
+
+## Dropdown 1
 #### Downloads:
 ##### As they go down, they get more and more cursed
 
@@ -17,3 +23,9 @@
 ###### v3: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev3.jar?raw=true)
 ###### v2: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev2.jar?raw=true)
 ###### v1: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev1.jar?raw=true)
+## Dropdown 2
+
+## Dropdown 3 
+
+## Dropdown 4
+
