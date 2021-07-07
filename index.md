@@ -1,2 +1,3 @@
 # Home
-[Downloads Page](
+
+[Go To Downloads](buffoonspoon.github.io/cheesemod/downloads.md)
