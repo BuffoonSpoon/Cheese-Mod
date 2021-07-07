@@ -1,13 +1,5 @@
 # Home
 
----
-title: "Tabset Example"
-output: html_document
----
-
-# The Tabset Section {.tabset .tabset-fade}
-
-## First Tab
 #### Downloads:
 ##### As they go down, they get more and more cursed
 
@@ -26,7 +18,4 @@ output: html_document
 ###### v2: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev2.jar?raw=true)
 ###### v1: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev1.jar?raw=true)
 
-## Second Tab
-Here is the second tab's content
-```
 
