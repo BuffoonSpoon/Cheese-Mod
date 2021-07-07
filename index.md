@@ -1,11 +1,13 @@
 # Home
+
 ---
+title: "Tabset Example"
 output: html_document
 ---
 
-# Heading {.tabset .tabset-dropdown}
+# The Tabset Section {.tabset .tabset-fade}
 
-## Dropdown 1
+## First Tab
 #### Downloads:
 ##### As they go down, they get more and more cursed
 
@@ -23,9 +25,8 @@ output: html_document
 ###### v3: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev3.jar?raw=true)
 ###### v2: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev2.jar?raw=true)
 ###### v1: [Download](https://github.com/BuffoonSpoon/cheesemod/blob/mod-downloads/bluecheesev1.jar?raw=true)
-## Dropdown 2
 
-## Dropdown 3 
-
-## Dropdown 4
+## Second Tab
+Here is the second tab's content
+```
 
